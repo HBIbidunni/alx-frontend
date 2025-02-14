@@ -7,4 +7,4 @@ combination of __CSS techniques__ such as `Flexbox`, `Grid`, `CSS Variables`,
 
 The creation of these __CSS techniques__ is to ensure proficiency in 
 styling complex layouts, handling different screen sizes, and implementing 
-interactive
+interactive animations.
