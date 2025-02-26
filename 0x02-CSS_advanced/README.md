@@ -11,4 +11,4 @@ interactive animations. At the finality of this project, the main goal is to be 
 - Utilize __Flexbox__,__Grid__, and __advanced layout__ techniques.
 - Build __Responsive Webpages__ to facilitate media queries and ensure 
   the page is __responsive across__ multiple devices.
-- Create visually appealing design layouts using 
+- Create visually appealing design layouts using animations and transitions. 
