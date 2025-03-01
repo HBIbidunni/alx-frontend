@@ -12,4 +12,4 @@ interactive animations. At the finality of this project, the main goal is to be 
 - Build __Responsive Webpages__ to facilitate media queries and ensure 
   the page is __responsive across__ multiple devices.
 - Create visually appealing design layouts using animations and transitions.
-- Utilize CSS variables that are maintainable  
+- Utilize CSS variables that are maintainable and adapt to best practices  
