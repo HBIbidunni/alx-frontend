@@ -16,4 +16,5 @@ interactive animations. At the finality of this project, the main goal is to be 
 for clean reusable, and modular code.  
 
 ## Technologies Used
---------------
+-------------
+- CSS3: For styling, layout, and animations. Some aspects of CSS utilized include:
