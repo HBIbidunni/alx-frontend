@@ -14,3 +14,6 @@ interactive animations. At the finality of this project, the main goal is to be 
 - Create visually appealing design layouts using animations and transitions.
 - Utilize CSS variables that are maintainable and adapt to best practices
 for clean reusable, and modular code.  
+
+## Technologies Used
+--------------
