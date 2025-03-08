@@ -17,5 +17,5 @@ for clean reusable, and modular code.
 
 ## Technologies Used
 -------------
-- CSS3: For styling, layout, and animations. Some aspects of CSS utilized include:
+- `CSS3`: For styling, layout, and animations. Some aspects of CSS utilized include:
 a)__Flexbox and CSS Grid__: This is for layout management.
