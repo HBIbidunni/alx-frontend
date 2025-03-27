@@ -20,3 +20,4 @@ for clean reusable, and modular code.
 - `CSS3`: For styling, layout, and animations. Some aspects of CSS utilized include:
 a)__Flexbox and CSS Grid__: This is for layout management.
 b)__Media Queries__: Handles responsiveness in all forms.
+c)__CSS Variables__:
