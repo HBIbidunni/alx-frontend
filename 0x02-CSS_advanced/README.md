@@ -21,5 +21,6 @@ for clean reusable, and modular code.
 a)__Flexbox and CSS Grid__: This is for layout management.
 b)__Media Queries__: Handles responsiveness in all forms.
 c)__CSS Variables__: To be utilized for theming and design consistency.
+d)__Animations and Transitions__: This are for interactive effects.
 
 
