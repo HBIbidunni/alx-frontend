@@ -24,6 +24,6 @@ c)__CSS Variables__: To be utilized for theming and design consistency.
 d)__Animations and Transitions__: This are for interactive effects.
 
 - `Git`: Version control for managing changes and collaboration.
-- `Visual Studio Code`: 
+- `Visual Studio Code`: Code editor used to write and test the project.
 
 
