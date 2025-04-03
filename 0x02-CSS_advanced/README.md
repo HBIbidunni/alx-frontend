@@ -26,4 +26,8 @@ d)__Animations and Transitions__: This are for interactive effects.
 - `Git`: Version control for managing changes and collaboration.
 - `Visual Studio Code`: Code editor used to write and test the project.
 
+__Similarly, the Advanced CSS project contains:__
+
+
+
 
