@@ -27,7 +27,7 @@ d)__Animations and Transitions__: This are for interactive effects.
 - `Visual Studio Code`: Code editor used to write and test the project.
 
 __Similarly, the Advanced CSS project contains:__
-
+a) `index.html`: The __main HTML__ file which contains the structure of the webpage.
 
 
 
