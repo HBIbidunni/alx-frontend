@@ -28,6 +28,8 @@ d)__Animations and Transitions__: This are for interactive effects.
 
 __Similarly, the Advanced CSS project contains:__
 a) `index.html`: The __main HTML__ file which contains the structure of the webpage.
+b) `style.css`: This contains the main stylesheet for the webpage which includes 
+styles from typography to layout to animations.
 
 
 
