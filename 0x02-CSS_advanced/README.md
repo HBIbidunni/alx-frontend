@@ -33,6 +33,7 @@ styles from typography to layout to animations.
 c) `images`: A folder containing all the images utilized in the project. These images include __logos__ and __background.__  
 
 __The features arising from these contents above include:__
+a) `Responsive Design`:
 
 
 
