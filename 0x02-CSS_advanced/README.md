@@ -33,7 +33,8 @@ styles from typography to layout to animations.
 c) `images`: A folder containing all the images utilized in the project. These images include __logos__ and __background.__  
 
 __The features arising from these contents above include:__
-a) `Responsive Design`: The webpage that arises from the responsive design and adjusts 
+a) `Responsive Design`: The webpage that arises from the responsive design and adjusts
+to different screen sizes which generally include 
 
 
 
