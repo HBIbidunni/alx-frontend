@@ -34,7 +34,6 @@ c) `images`: A folder containing all the images utilized in the project. These i
 
 __The features arising from these contents above include:__
 a) `Responsive Design`: The webpage that arises from the responsive design and adjusts
-to different screen sizes which generally include mobile, tablet 
-
+to different screen sizes which generally include mobile, tablet and desktop.
 
 
