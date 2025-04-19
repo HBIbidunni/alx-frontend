@@ -10,7 +10,7 @@ styling complex layouts, handling different screen sizes, and implementing
 interactive animations. At the finality of this project, the main goal is to be able to:
 - Utilize __Flexbox__,__Grid__, and __advanced layout__ techniques.
 - Build __Responsive Webpages__ to facilitate media queries and ensure 
-  the page is __responsive across__ multiple devices.
+the page is __responsive across__ multiple devices.
 - Create visually appealing design layouts using animations and transitions.
 - Utilize CSS variables that are maintainable and adapt to best practices
 for clean reusable, and modular code.  
@@ -19,8 +19,11 @@ for clean reusable, and modular code.
 -------------
 - `CSS3`: For styling, layout, and animations. Some aspects of CSS utilized include:
 a)__Flexbox and CSS Grid__: This is for layout management.
+
 b)__Media Queries__: Handles responsiveness in all forms.
+
 c)__CSS Variables__: To be utilized for theming and design consistency.
+
 d)__Animations and Transitions__: This are for interactive effects.
 
 - `Git`: Version control for managing changes and collaboration.
@@ -28,13 +31,16 @@ d)__Animations and Transitions__: This are for interactive effects.
 
 __Similarly, the Advanced CSS project contains:__
 a) `index.html`: The __main HTML__ file which contains the structure of the webpage.
+
 b) `style.css`: This contains the main stylesheet for the webpage which includes 
 styles from typography to layout to animations.
+
 c) `images`: A folder containing all the images utilized in the project. These images include __logos__ and __background.__  
 
 __The features arising from these contents above include:__
 a) `Responsive Design`: The webpage that arises from the responsive design and adjusts
 to different screen sizes which generally include mobile, tablet and desktop.
+
 b) `Flexbox Layout`:
 
 
