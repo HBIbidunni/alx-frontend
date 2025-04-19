@@ -18,6 +18,7 @@ for clean reusable, and modular code.
 ## Technologies Used
 -------------
 - `CSS3`: For styling, layout, and animations. Some aspects of CSS utilized include:
+
 a)__Flexbox and CSS Grid__: This is for layout management.
 
 b)__Media Queries__: Handles responsiveness in all forms.
@@ -30,6 +31,7 @@ d)__Animations and Transitions__: This are for interactive effects.
 - `Visual Studio Code`: Code editor used to write and test the project.
 
 __Similarly, the Advanced CSS project contains:__
+
 a) `index.html`: The __main HTML__ file which contains the structure of the webpage.
 
 b) `style.css`: This contains the main stylesheet for the webpage which includes 
