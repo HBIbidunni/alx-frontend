@@ -46,6 +46,6 @@ adjusts to different screen sizes which generally include mobile, tablet and des
 
 b) `Flexbox Layout`: Generally, the flexbox layout organizes the content sections in a flexible and dynamic way.
 
-c) `CSS Grid Layout`: This is used to create more complex     
+c) `CSS Grid Layout`: This is used in creating more complex, grid-based    
 
 
