@@ -48,6 +48,6 @@ b) `Flexbox Layout`: Generally, the flexbox layout organizes the content section
 
 c) `CSS Grid Layout`: This is used in creating a more complex, grid-based structure for the webpage.
 
-d) `Animations & Transitions`:  
+d) `Animations & Transitions`: The features that arise from this are smooth 
 
 
