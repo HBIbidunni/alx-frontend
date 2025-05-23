@@ -51,6 +51,6 @@ c) `CSS Grid Layout`: This is used in creating a more complex, grid-based struct
 d) `Animations & Transitions`: The features that arise from this are smooth animations
 that enhances hover effects and interactive transitions.
 
-e) `Customizable Theme`: It is extremely important to have a customizable theme (CSS variables) that defines the primary colour scheme and font styles in such a way that makes modification of the design   
+e) `Customizable Theme`: It is extremely important to have a customizable theme (CSS variables) that defines the primary colour scheme and font styles in such a way that makes modification of the design easy.   
 
 
