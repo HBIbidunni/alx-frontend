@@ -64,6 +64,6 @@ html {
 
 ```
 
-- Using the code above
+- Using the code above ensures that
 
 
