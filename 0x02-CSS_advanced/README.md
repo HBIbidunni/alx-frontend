@@ -64,6 +64,6 @@ html {
 
 ```
 
-- Using the code above ensures that
+- When users navigate through anchor links (`<a href="#section">`), the code shown above
 
 
