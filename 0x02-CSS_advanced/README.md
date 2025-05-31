@@ -64,6 +64,6 @@ html {
 
 ```
 
-- When users navigate through anchor links (`<a href="#section">`), the code shown above
+- When there is a  navigation through anchor links (`<a href="#section">`), the code shown above enables smooth scrolling
 
 
