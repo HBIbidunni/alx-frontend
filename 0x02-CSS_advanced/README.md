@@ -69,3 +69,13 @@ the code shown above enables smooth scrolling, improves navigation experience
 particularly for single-paged websites.
 
 
+```
+body {
+  color: #161616;
+}
+
+a {
+  color: #161616;
+}
+
+```
