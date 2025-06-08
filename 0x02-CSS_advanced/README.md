@@ -80,4 +80,4 @@ a {
 
 ```
 
-- The code above sets 
+- The code above sets the dark shade 
