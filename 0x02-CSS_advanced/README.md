@@ -80,4 +80,4 @@ a {
 
 ```
 
-- The code above sets the dark shade which is (`#161616`) to the 
+- The code above sets the dark shade which is (`#161616`) to the default 
