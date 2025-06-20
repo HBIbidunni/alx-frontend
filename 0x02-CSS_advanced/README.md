@@ -81,4 +81,4 @@ a {
 ```
 
 - The code above sets the dark shade which is (`#161616`) to the default text 
-colour ensuring that they are   
+colour ensuring that they are clear   
