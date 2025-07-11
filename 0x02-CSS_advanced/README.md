@@ -90,4 +90,7 @@ the same colour to all <`a`> elements to maintain consistency.
   display: none;
 }
 
-```    
+```
+
+- This code completely hides
+    
