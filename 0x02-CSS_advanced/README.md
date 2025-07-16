@@ -92,5 +92,5 @@ the same colour to all <`a`> elements to maintain consistency.
 
 ```
 
-- This code completely hides
+- This code completely hides elements from view.
     
