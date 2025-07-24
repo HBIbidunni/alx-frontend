@@ -93,5 +93,5 @@ the same colour to all <`a`> elements to maintain consistency.
 ```
 
 - This code completely hides elements from view. Also, it is very 
-useful for screen reader specific content
+useful for screen reader specific content or for toggling User Interface (UI)
     
