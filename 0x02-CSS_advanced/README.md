@@ -94,4 +94,15 @@ the same colour to all <`a`> elements to maintain consistency.
 
 - This code completely hides elements from view. Also, it is very 
 useful for screen reader specific content or for toggling User Interface (UI)
-components with JavaScript.    
+components with JavaScript.
+
+```
+.card-category {
+  color: #d73953;
+}
+
+.section-tagline {
+  color: #d73953;
+}
+
+```    
