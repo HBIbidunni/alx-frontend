@@ -107,4 +107,4 @@ components with JavaScript.
 
 ```
 
-- The code above visualizes and distinguishes categories    
+- The code above visualizes and distinguishes categories and section taglines     
