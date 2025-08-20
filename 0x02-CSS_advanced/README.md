@@ -108,4 +108,4 @@ components with JavaScript.
 ```
 
 - The code above visualizes and distinguishes categories and section taglines 
-for better content organization. Similarly, it assigns      
+for better content organization. Similarly, it assigns a distinct red-pink color       
