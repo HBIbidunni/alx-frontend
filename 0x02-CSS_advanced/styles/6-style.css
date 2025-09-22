@@ -43,3 +43,7 @@ h6 {
   font-weight: var(--font-weight-bold);
 }
 
+a {
+  color: var(--text-color);
+}
+
