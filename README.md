@@ -25,4 +25,5 @@ Every HTML page follows a basic format:
 
 ```
 
-
+The __key elements__ of the HTML page include:
+- <!doctype html> — This enables the standards mode.
