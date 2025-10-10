@@ -27,3 +27,4 @@ Every HTML page follows a basic format:
 
 The __key elements__ of the HTML page include:
 - <!doctype html> — This enables the standards mode.
+- <html lang="en"> — This sets the language for accessibility & search engines.
