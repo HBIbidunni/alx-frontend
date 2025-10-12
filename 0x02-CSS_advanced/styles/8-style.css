@@ -1,0 +1,6 @@
+/*  Custom properties in the root element for line heights */
+
+html {
+  scroll-behavior: smooth;
+  font-size: 62.5%;
+}
