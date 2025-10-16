@@ -26,6 +26,7 @@ Every HTML page follows a basic format:
 ```
 
 The __key elements__ of the HTML page include:
-- <!doctype html> — This enables the standards mode.
-- <html lang="en"> — This sets the language for accessibility & search engines.
-- <meta charset="utf-8"> — This code is required for character encoding.
+- `<!doctype html>` — This enables the standards mode.
+- `<html lang="en">` — This sets the language for accessibility & search engines.
+- `<meta charset="utf-8">` — This code is required for character encoding.
+- `<meta name="viewport"...>` — This is required for the responsive layout on mobile.
