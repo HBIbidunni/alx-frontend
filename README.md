@@ -30,3 +30,6 @@ The __key elements__ of the HTML page include:
 - `<html lang="en">` — This sets the language for accessibility & search engines.
 - `<meta charset="utf-8">` — This code is required for character encoding.
 - `<meta name="viewport"...>` — This is required for the responsive layout on mobile.
+- `Use semantic elements`: Such as <header>, <nav>, <main>, <article>, <section>, 
+<aside>, <footer>. Semantic HTML is important because it improves 
+accessibility and SEO.
