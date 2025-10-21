@@ -33,3 +33,14 @@ The __key elements__ of the HTML page include:
 - `Use semantic elements`: Such as <header>, <nav>, <main>, <article>, <section>, 
 <aside>, <footer>. Semantic HTML is important because it improves 
 accessibility and SEO.
+
+__An example of a Semantic article__
+
+```
+<article>
+  <header><h2>Article title</h2></header>
+  <p>Intro paragraph...</p>
+  <footer><small>Published <time datetime="2025-10-06">Oct 6, 2025</time></small></footer>
+</article>
+
+```
