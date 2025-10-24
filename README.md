@@ -34,7 +34,7 @@ The __key elements__ of the HTML page include:
 <aside>, <footer>. Semantic HTML is important because it improves 
 accessibility and SEO.
 
-__An example of a Semantic article__
+__An example of a Semantic article:__
 
 ```
 <article>
@@ -42,5 +42,13 @@ __An example of a Semantic article__
   <p>Intro paragraph...</p>
   <footer><small>Published <time datetime="2025-10-06">Oct 6, 2025</time></small></footer>
 </article>
+
+```
+
+__Accessible skip-link CSS (example):__
+
+```
+.skip-link { position: absolute; left: -9999px; top: auto; }
+.skip-link:focus { left: 1rem; top: 1rem; }
 
 ```
