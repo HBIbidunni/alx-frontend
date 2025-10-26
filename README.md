@@ -52,3 +52,12 @@ __Accessible skip-link CSS (example):__
 .skip-link:focus { left: 1rem; top: 1rem; }
 
 ```
+
+## CSS basics —  Its syntax, selectors & specificity
+
+__CSS rule:__
+
+```
+selector { property: value; property2: value2; }
+
+```
