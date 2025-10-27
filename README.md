@@ -62,12 +62,12 @@ selector { property: value; property2: value2; }
 ```
 
 Somr selectors (brief) used in CSS include:
-Type: `p, h1`
+- Type: `p, h1`
 
-Class: `.btn`
+- Class: `.btn`
 
-ID: `#header`
+- ID: `#header`
 
-Attribute: `a[rel="external"]
+- Attribute: `a[rel="external"]
 
-Descendant: `.nav a`
+- Descendant: `.nav a`
