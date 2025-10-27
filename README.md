@@ -30,9 +30,8 @@ The __key elements__ of the HTML page include:
 - `<html lang="en">` — This sets the language for accessibility & search engines.
 - `<meta charset="utf-8">` — This code is required for character encoding.
 - `<meta name="viewport"...>` — This is required for the responsive layout on mobile.
-- `Use semantic elements`: Such as <header>, <nav>, <main>, <article>, <section>, 
-<aside>, <footer>. Semantic HTML is important because it improves 
-accessibility and SEO.
+- `Use semantic elements`: Such as `<header>`, `<nav>`, `<main>`, `<article>`, `<section>`, `<aside>`, `<footer>`. 
+__Semantic HTML__ is important because it improves accessibility and SEO.
 
 __An example of a Semantic article:__
 
@@ -61,3 +60,14 @@ __CSS rule:__
 selector { property: value; property2: value2; }
 
 ```
+
+Somr selectors (brief) used in CSS include:
+Type: `p, h1`
+
+Class: `.btn`
+
+ID: `#header`
+
+Attribute: `a[rel="external"]
+
+Descendant: `.nav a`
