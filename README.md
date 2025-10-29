@@ -61,7 +61,7 @@ selector { property: value; property2: value2; }
 
 ```
 
-Somr selectors (brief) used in CSS include:
+Here are some examples of  selectors (brief) used in CSS include:
 - Type: `p, h1`
 
 - Class: `.btn`
@@ -71,3 +71,7 @@ Somr selectors (brief) used in CSS include:
 - Attribute: `a[rel="external"]
 
 - Descendant: `.nav a`
+
+- Child: `.nav > a`
+
+- Pseudo-class: `a:hover`, `input:focus`
