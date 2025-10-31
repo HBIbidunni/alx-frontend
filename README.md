@@ -75,3 +75,5 @@ Here are some examples of  selectors (brief) used in CSS include:
 - Child: `.nav > a`
 
 - Pseudo-class: `a:hover`, `input:focus`
+
+- Pseudo-element: 
