@@ -76,4 +76,4 @@ Here are some examples of  selectors (brief) used in CSS include:
 
 - Pseudo-class: `a:hover`, `input:focus`
 
-- Pseudo-element: 
+- Pseudo-element: `h2::after` 
