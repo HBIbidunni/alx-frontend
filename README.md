@@ -61,7 +61,7 @@ selector { property: value; property2: value2; }
 
 ```
 
-Here are some examples of  selectors (brief) used in CSS include:
+Here are some examples of  selectors (brief) used in CSS and they include:
 - Type: `p, h1`
 
 - Class: `.btn`
@@ -77,3 +77,4 @@ Here are some examples of  selectors (brief) used in CSS include:
 - Pseudo-class: `a:hover`, `input:focus`
 
 - Pseudo-element: `h2::after` 
+
