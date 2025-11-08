@@ -78,3 +78,5 @@ Here are some examples of  selectors (brief) used in CSS and they include:
 
 - Pseudo-element: `h2::after` 
 
+Also, the specificity (ordering priority) used in CSS include:
+- Inline style (`style="..."`) → __highest__
