@@ -57,3 +57,6 @@ a {
     display: none;
     }
 
+.card-category {
+    color: var(--color-primary);
+    }
