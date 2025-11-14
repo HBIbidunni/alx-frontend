@@ -54,3 +54,7 @@ a {
   color: var(--text-color);
   text-decoration: none;
 }
+
+.visually-hidden {
+  display: none;
+}
