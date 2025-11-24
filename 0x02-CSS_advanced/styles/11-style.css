@@ -2,7 +2,6 @@
 
 html {
   scroll-behavior: smooth;
-    font-size: 62.5%;
 }
 
 :root {
@@ -55,4 +54,8 @@ h6 {
 a {
   color: var(--text-color);
   text-decoration: none;
+}
+
+.visually-hidden {
+    display: none;
 }
