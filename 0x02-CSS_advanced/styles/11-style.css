@@ -2,6 +2,7 @@
 
 html {
   scroll-behavior: smooth;
+  font-size: 62.5%;
 }
 
 :root {
@@ -62,4 +63,8 @@ a {
 
 .card-category {
     color: var(--color-primary);
+}
+
+.section-header {
+    text-align: var(--section-header-align);
 }
