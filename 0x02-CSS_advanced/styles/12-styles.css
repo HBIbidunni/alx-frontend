@@ -35,12 +35,22 @@ html {
 
   --section-title-margin: 0;
   --section-title-color: var(--color-black);
-  }
+}
 
-  body {
-    color: var(--text-color);
-    font-family: var(--font-family-base);
-    font-size: var(--font-size-medium);
-    font-weight: var(--font-weight-regular);
-    line-height: var(--line-height-base);
-  }
+body {
+  color: var(--text-color);
+  font-family: var(--font-family-base);
+  font-size: var(--font-size-medium);
+  font-weight: var(--font-weight-regular);
+  line-height: var(--line-height-base);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-family-title);
+  font-weight: var(--font-weight-bold);
+}
