@@ -79,3 +79,7 @@ a:active {
 .card-category {
   color: var(--color-primary);
 }
+
+.section-header {
+  text-align: var(--section-header-align);
+}
