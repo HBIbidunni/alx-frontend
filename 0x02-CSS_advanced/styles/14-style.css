@@ -70,3 +70,11 @@ main {
 
 /* Text-level semantics
    ========================================================================== */
+
+/**
+ * Remove the grey background on active links in IE 10.
+ */
+
+a {
+ background-color: transparent;
+}
