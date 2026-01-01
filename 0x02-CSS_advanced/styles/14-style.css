@@ -131,3 +131,7 @@ sup {
   position: relative;
   vertical-align: baseline;
 }
+
+sub {
+  bottom: -0.25em;
+}
