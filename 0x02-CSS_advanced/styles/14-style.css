@@ -104,11 +104,11 @@ strong {
  * 2. Correct the odd `em` font sizing in all browsers.
  */
 
- code,
- kbd,
- samp {
-   font-family: monospace, monospace; /* 1 */
-   font-size: 1em; /* 2 */
+code,
+kbd,
+samp {
+  font-family: monospace, monospace; /* 1 */
+  font-size: 1em; /* 2 */
 }
 
 /**
@@ -123,3 +123,11 @@ small {
  * Prevent `sub` and `sup` elements from affecting the line height in
  * all browsers.
  */
+
+sub,
+sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
