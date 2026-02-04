@@ -200,7 +200,7 @@ button,
 [type="button"],
 [type="reset"],
 [type="submit"] {
-  -webkit-appearance: button;
+  -webkit-appear:button;
 }
 
 /**
@@ -284,7 +284,7 @@ textarea {
 [type="number"]::-webkit-inner-spin-button,
 [type="number"]::-webkit-outer-spin-button {
   height: auto;
-} 
+}
 
 /**
  * 1. Correct the odd appearance in Chrome and Safari.
@@ -292,7 +292,7 @@ textarea {
  */
 
 [type="search"] {
-  -webkit-appearance: textfield; /* 1 */
+  -webkit-appear: textfield; /* 1 */
   outline-offset: -2px; /* 2 */
 }
 
@@ -378,15 +378,15 @@ html {
 
   --font-weight-regular: 400;
   --font-weight-bold: 700;
-
+    
   --line-height-small: 1.2;
   --line-height-base: 1.5;
   --line-height-big: 1.8;
-
+          
   --section-header-align: center;
-
+            
   --section-tagline-transform: uppercase;
-
+              
   --section-title-margin: 0;
   --section-title-color: var(--color-black);
 }
@@ -416,4 +416,32 @@ a:link {
 
 a:visited {
   font-style: italic;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  background-color: var(--color-light-grey);
+}
+
+.visually-hidden {
+  display: none;
+}
+
+.card-category {
+  color: var(--color-primary);
+}
+
+.section-header {
+  text-align: var(--section-header-align);
+}
+
+.section-title {
+  font-family: var(--font-family-title);
+  font-size: var(--font-size-xx-large);
+  font-weight: var(--font-weight-bold);
+  margin: var(--section-title-margin);
+  color: var(--section-title-color);
 }
