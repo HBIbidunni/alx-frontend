@@ -191,8 +191,3 @@ select {
   /* 1 */
   text-transform: none;
 }
-
-/**
- * Remove the inheritance of text transform in Edge, Firefox, and IE.
- * 1. Remove the inheritance of text transform in Firefox.
- */
