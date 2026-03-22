@@ -351,3 +351,11 @@ template {
 [hidden] {
   display: none;
 }
+
+/*# sourceMappingURL=normalize.min.css.map */
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
