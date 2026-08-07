@@ -200,7 +200,7 @@ button,
 [type="button"],
 [type="reset"],
 [type="submit"] {
-  -webkit-appear: button;
+  -webkit-appearance: button;
 }
 
 /**
