@@ -1,4 +1,4 @@
-ù7y/* Customizing the navbar */
+/* Customizing the navbar */
 
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 
@@ -78,3 +78,8 @@ pre {
 a {
   background-color: transparent;
 }
+
+/**
+ * 1. Remove the bottom border in Chrome 57-
+ * 2. Add the correct text decoration in Chrome, Edge, IE, Opera, and Safari.
+ */
