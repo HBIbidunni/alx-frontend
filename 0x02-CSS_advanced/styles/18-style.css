@@ -339,3 +339,7 @@ summary {
 /**
  * Add the correct display in IE 10+.
  */
+
+template {
+  display: none;
+}
