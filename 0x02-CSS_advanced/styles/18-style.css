@@ -396,3 +396,9 @@ html {
 
   --section-title-margin: 0;
   --section-title-color: var(--color-black);
+
+  --section-padding: 5rem 0;
+  --section-header-padding: 0 0 3rem;
+  --section-body-padding: 0 0 3rem;
+  --section-footer-padding: 3rem 0 0;
+  --footer-padding: 5rem 0 1rem;
