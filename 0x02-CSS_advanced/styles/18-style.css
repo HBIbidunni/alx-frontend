@@ -450,3 +450,7 @@ a:active {
 .visually-hidden {
   display: none;
 }
+
+.card-category {
+  color: var(--color-primary);
+}
